@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Open Source Sweets!
 
 You can use the [editor on GitHub](https://github.com/pijussimke123/open-source-sweets/edit/sweet/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
